@@ -124,3 +124,6 @@ The system uses a deep CNN trained on standard facial expression datasets such a
 ## License
 
 This project is intended for academic, research, and educational use.
+
+## Collaboration
+This project was developed collaboratively and is shared on my GitHub profile as part of my portfolio.
